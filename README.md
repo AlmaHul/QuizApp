@@ -58,7 +58,7 @@ Se till att du har följande installerat:
 - Öppna terminalen (eller kommandotolken)
 - Navigera till en plats där du vill lagra projektet. Använd cd-kommandot, till exempel:
   ```bash
-  cd /path/to/directory
+  cd /QuizApp
 - Kör följande kommando i terminalen för att klona repositoryt till din dator:  
   ```bash
   https://github.com/AlmaHul/QuizApp.git
